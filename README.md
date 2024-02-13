@@ -3,24 +3,6 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-<div align='center'> 
-  <h3>
-   I'm Reza👋🏻 Welcome
-  </h3>
-</div> <br>
- 
-
-
-  
-<!------------- ABOUT ME --------->
-<h1> 
-   <img src="https://github.com/monarahmati/monarahmati/assets/107634745/0a2d0eb6-c838-4851-bf49-ee1865b15579" alt="man with laptop" width="60" height="60" marginTop="20" style={{ marginTop :"20ox"}} /> 
-   About me 
-</h1> 
-
-💡 I'm Mona Rahmati, a front-end developer and with a passion for creating visually appealing and user-friendly interfaces. I'm always eager to learn new technologies and hone my skills. 🔮🔒. <br/>
-
-
 <!------------- MY SKILLS --------->
 <h2> <img src="https://github.com/monarahmati/monarahmati/assets/107634745/66e9ef23-64b3-4b35-b00d-7d59d72437e1" height="45" alt="coffee"  /> &nbsp;  I code with:  </h2> 
 
