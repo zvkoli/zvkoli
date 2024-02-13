@@ -46,14 +46,6 @@
 
 
 
-<!--=================================== MY STATS ===================================-->
-<h2>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="45" /> &nbsp; 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔 </h2>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=monarahmati&theme=nightowl&hide_border=true&border_radius=6.8)](https://git.io/streak-stats)  
-
-
-
-
 
 
 
