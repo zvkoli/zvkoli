@@ -3,32 +3,13 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-
-<!-------------- BANNER ---------->
-<div align='left'>
-<div id="header" align="center" >
-  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1c4094fa-5656-45d3-9aca-2b1101401ae6" width='950' height="350"  alt="perfect night" top="50" />
-</div>
 <div align='center'> 
   <h3>
    I'm Reza👋🏻 Welcome
   </h3>
 </div> <br>
  
-<!------------- SOCIAL MEDIA  --------->
 
-  <div align="center">
-    
- <a href="https://www.linkedin.com/in/mona-rahmati" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Miss_rahmaty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://instagram.com/venusjavascript" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
   
 <!------------- ABOUT ME --------->
