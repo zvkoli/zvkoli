@@ -24,10 +24,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next.js logo"  />
   <img width="12" />
-
-<br/>
-
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have experience using tools such as :  </h3> 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
@@ -42,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
 
- <br/><br/><br/>
+  ---
 
 
 
